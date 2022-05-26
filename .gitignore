@@ -2,6 +2,7 @@
 # .NET Core build folders
 bin/
 obj/
+out/
 
 # Common node modules locations
 /node_modules
@@ -26,4 +27,3 @@ obj/
 +# Reference: https://rider-support.jetbrains.com/hc/en-us/articles/207097529
 +.idea/**/modules.xml
 +.idea/**/contentModel.xml
-
